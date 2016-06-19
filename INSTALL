@@ -1,0 +1,9 @@
+Building ArabLeagueCoin
+
+See doc/readme-qt.rst for instructions on building ArabLeagueCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ArabLeagueCoin.
+
+See doc/build-*.txt for instructions on building ArabLeagueCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ArabLeagueCoin.
